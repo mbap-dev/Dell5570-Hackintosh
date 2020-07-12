@@ -1,1 +1,1 @@
-# DELL_5570-opencore
+# DELL 5570 hackintosh-opencore
