@@ -103,7 +103,7 @@
 				<key>Comment</key>
 				<string>Delete CpuPm</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>OemTableId</key>
 				<data>Q3B1UG0AAAA=</data>
 				<key>TableLength</key>
@@ -117,7 +117,7 @@
 				<key>Comment</key>
 				<string>Delete Cpu0Ist</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>OemTableId</key>
 				<data>Q3B1MElzdAA=</data>
 				<key>TableLength</key>
@@ -916,7 +916,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-B4831CEBD52A0C4C</string>
+			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>BoardRevision</key>
 			<data></data>
 			<key>DevicePathsSupported</key>
@@ -936,39 +936,39 @@
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZTSY1HV29</string>
+			<string>FVFZ201KL40Y</string>
 			<key>SystemUUID</key>
-			<string>A814B6E8-2FD7-4B80-BD65-D5AF9E47AAF9</string>
+			<string>EE149F90-3F93-4C64-9CBD-1C2CDCD1A94E</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C029501024NHWVPJC</string>
+			<string>FVF928207QX00001M</string>
 			<key>ROM</key>
 			<data>T6TBPADQ</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZTSY1HV29</string>
+			<string>FVFZ201KL40Y</string>
 			<key>SystemUUID</key>
-			<string>A814B6E8-2FD7-4B80-BD65-D5AF9E47AAF9</string>
+			<string>EE149F90-3F93-4C64-9CBD-1C2CDCD1A94E</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-B4831CEBD52A0C4C</string>
+			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>FirmwareFeatures</key>
-			<data>duEP/AAAAAA=</data>
+			<data>N+EP/AAAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>f/8f/wAAAAA=</data>
+			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C029501024NHWVPJC</string>
+			<string>FVF928207QX00001M</string>
 			<key>ROM</key>
 			<data>T6TBPADQ</data>
 		</dict>
