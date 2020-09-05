@@ -20,6 +20,22 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>SSDT-ALC256.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Disable discrete graphics card</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-DDGPU.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-ALS0.aml</string>
 			</dict>
 			<dict>
@@ -260,16 +276,12 @@
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,31,3</string>
-				<key>device-id</key>
-				<data>cJ0AAA==</data>
 				<key>device_type</key>
 				<string>Audio device</string>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>OAAAAA==</data>
+				<data>CwAAAA==</data>
 				<key>model</key>
-				<string>100 Series/C230 Series Chipset Family HD Audio Controller</string>
+				<string>Sunrise Point-LP HD Audio</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -457,7 +469,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/CodecCommander</string>
 				<key>MaxKernel</key>
@@ -843,7 +855,7 @@
 			<key>AuthRestart</key>
 			<false/>
 			<key>BootProtect</key>
-			<string>Bootstrap</string>
+			<string>None</string>
 			<key>ExposeSensitiveData</key>
 			<integer>6</integer>
 			<key>HaltLevel</key>
@@ -926,7 +938,7 @@
 				<key>prev-lang:kbd</key>
 				<data>emgtSGFuczoyNTI=</data>
 				<key>csr-active-config</key>
-				<data>5wMAAA==</data>
+				<data>/w8AAA==</data>
 				<key>booter-fileset-basesystem</key>
 				<data>AA==</data>
 				<key>booter-fileset-kernel</key>
